@@ -1,0 +1,19 @@
+2xx  =>  OK
+3xx  =>  Redirection
+4xx  =>  You fucked up
+5xx  =>  We fucked up
+
+
+200  OK
+201  Created
+204  No Content
+
+301  Permanent Redirect
+302  Temp Redirect
+
+401  Unauthorized
+403  Forbidden
+404  Not Found
+422  Unprocessable Entity (validation errors)
+
+500  Internal Server Error
